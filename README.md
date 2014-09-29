@@ -5,6 +5,8 @@ Software-Engineering
 
 TweetEventer
 
+## 02. description
+
 A simple event system with Twitter logins. Each user can create event and other users may choose attend status from the event’s page.
 
 Write here
